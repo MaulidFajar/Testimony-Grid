@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Solution URL: [[Click Here](https://github.com/MaulidFajar/Testimony-Grid/)]
+- Live Site URL: [[Click Here](https://maulidfajar.github.io/Testimony-Grid/)]
 
 ## My process
 
@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [[MaulidFajar](https://github.com/MaulidFajar/Testimony-Grid/)]
+- Frontend Mentor - [@MaulidFajar](https://www.frontendmentor.io/profile/MaulidFajar)
 
